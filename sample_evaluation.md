@@ -1,3 +1,5 @@
+> Note: This is an illustrative example of how the rubric is applied. Response summaries are paraphrased, not verbatim logs. See model_comparison.md for real tested outputs.
+
 # Sample Evaluation
 
 **Model tested:** Claude
